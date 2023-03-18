@@ -1,0 +1,8 @@
+D:\C#repo\InterfaceOtomobil\InterfaceOtomobil\bin\Debug\InterfaceOtomobil.exe.config
+D:\C#repo\InterfaceOtomobil\InterfaceOtomobil\bin\Debug\InterfaceOtomobil.exe
+D:\C#repo\InterfaceOtomobil\InterfaceOtomobil\bin\Debug\InterfaceOtomobil.pdb
+D:\C#repo\InterfaceOtomobil\InterfaceOtomobil\obj\Debug\InterfaceOtomobil.csproj.AssemblyReference.cache
+D:\C#repo\InterfaceOtomobil\InterfaceOtomobil\obj\Debug\InterfaceOtomobil.csproj.SuggestedBindingRedirects.cache
+D:\C#repo\InterfaceOtomobil\InterfaceOtomobil\obj\Debug\InterfaceOtomobil.csproj.CoreCompileInputs.cache
+D:\C#repo\InterfaceOtomobil\InterfaceOtomobil\obj\Debug\InterfaceOtomobil.exe
+D:\C#repo\InterfaceOtomobil\InterfaceOtomobil\obj\Debug\InterfaceOtomobil.pdb
